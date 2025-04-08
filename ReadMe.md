@@ -5,7 +5,7 @@
 **Hello, I'm Devon, an 18-year-old programmer:**
 
 Currently learning **React** and **Python**  
-I am currently attending **Aims**  
+I am currently attending **Aims Community College**  
 Used to be a former *semi-pro Rocket League* player.
 
 <br>
