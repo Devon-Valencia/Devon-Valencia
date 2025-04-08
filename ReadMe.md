@@ -6,9 +6,9 @@
 
 **Python** and **React** Jr Dev
 
-currently attending **Aims Community College** for Computer Science
+Currently attending **Aims Community College** for Computer Science
 
-Used to be a former *pro Rocket League* player.
+Used to be a former *Professionall Rocket League* player.
 
 <br>
 
