@@ -4,7 +4,7 @@
 
 **Hello, I'm Devon, an 18-year-old programmer:**
 
-**Python** and **React** Jr Dev  
+**Python** and **React** Jr Dev
 currently attending **Aims Community College** for Computer Science
 
 Used to be a former *pro Rocket League* player.
