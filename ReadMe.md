@@ -8,7 +8,7 @@
 
 Currently attending **Aims Community College** for Computer Science
 
-Used to be a former *Professionall Rocket League* player.
+Former *Professionall Rocket League* player.
 
 <br>
 
