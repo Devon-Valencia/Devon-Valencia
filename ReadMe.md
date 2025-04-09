@@ -1,8 +1,8 @@
 <!-- <img src="github_banner.gif" alt="GitHub Banner" /> -->
 
-<h1 style="text-align: center; font-size: 35; ">💫 About Me:</h1>
+<h1 style="text-align: center; font-size: 35; "> 💫 About Me:</h1>
 
-**Hello, I'm Devon, an 18-year-old programmer:**
+**👋 Hello, I'm Devon, an 18-year-old programmer:**
 
 **Python** and **React** Jr Dev
 
