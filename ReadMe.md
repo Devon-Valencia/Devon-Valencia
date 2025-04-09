@@ -1,4 +1,4 @@
-<img src="github_banner.gif" alt="GitHub Banner" /> 
+<!-- <img src="github_banner.gif" alt="GitHub Banner" /> -->
 
 <h1 style="text-align: center; font-size: 35; ">💫 About Me:</h1>
 
