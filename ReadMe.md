@@ -2,6 +2,8 @@
 
 <h1 style="text-align: center; font-size: 35; "> 👋 Hello, I'm Devon:</h1>
 
+Im an 18-year-old programmer
+
 **Python** and **React** Jr Dev
 
 Currently attending **Aims Community College** for Computer Science
