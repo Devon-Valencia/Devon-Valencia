@@ -21,7 +21,7 @@ Used to be a former *pro Rocket League* player.
   <a href="https://tiktok.com/@AvThecutie">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://x.com/AvTheCutie">
+  <a href="https://x.com/DevonValen67612">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X/Twitter" />
   </a>
   <a href="https://instagram.com/devon_valencia06">
