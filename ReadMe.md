@@ -1,12 +1,14 @@
-<img src="github_banner.gif" alt="GitHub Banner" />
+<!-- <img src="github_banner.gif" alt="GitHub Banner" /> -->
 
-<h1 style="text-align: center; font-size: 35; ">💫 About Me:</h1>
+<h1 style="text-align: center; font-size: 35; "> 👋 Hello, I'm Devon:</h1>
 
-**Hello, I'm Devon, an 18-year-old programmer:**
+ A 18-year-old programmer
 
-**Python** and **React** Jr Dev  
-I am currently attending **Aims Community College**  
-Used to be a former *pro Rocket League* player.
+**Python** and **React** Jr Dev
+
+Currently attending **Aims Community College** for Computer Science
+
+Former *Professional Rocket League* player.
 
 <br>
 
