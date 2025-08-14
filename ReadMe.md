@@ -4,7 +4,7 @@
 
  A 18-year-old programmer
 
-**Python** and **React** Jr Dev
+**Fullstack** Dev
 
 Currently attending **Aims Community College** for Computer Science
 
